@@ -1,0 +1,10 @@
+Package: com.github.ActivityDot
+Name: Activity Dot
+Version: 1.2
+Architecture: iphoneos-arm
+Description: iOS 7/8/9+ status bar activity dot
+Depiction: This is a status bar activity indicator in keeping with the theme of iOS 7 and onwards. 
+Homepage: http://github.com/SheldonTheTurtle/repo
+Maintainer: Lewis Chandler <Lewismcchandler@gmail.com>
+Author: Lewis Chandler <Lewismcchandler@gmail.com>
+Section: Themes
